@@ -1,0 +1,28 @@
+.container {
+  margin: 0 auto;
+  padding: 16px;
+  width: 900px;
+}
+
+.row {
+  padding: 8px;
+  display: flex;
+  width: 100%;
+}
+
+.row .column {
+  width: 100%;
+}
+
+.column textarea {
+  width: 100%;
+}
+
+.column button {
+  margin-top: 8px;
+  margin-right: 8px;
+}
+
+.column p {
+  word-break: break-all;
+}
